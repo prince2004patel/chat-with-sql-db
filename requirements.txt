@@ -1,0 +1,43 @@
+# Core Langchain and ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+
+# Serving & API
+fastapi
+uvicorn
+sse-starlette
+langserve==0.0.35  # ✅ Stable with httpx 0.24.1
+
+# Compatibility
+pydantic<2.0
+httpx==0.24.1  # ✅ Required to avoid VerifyTypes import error
+
+# Other tools
+python-dotenv
+ipykernel
+pypdf
+pymupdf
+beautifulsoup4
+arxiv
+wikipedia
+faiss-cpu
+chromadb
+sentence_transformers
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy
+plotly
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+
+# UI 
+streamlit
