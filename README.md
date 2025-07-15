@@ -3,7 +3,10 @@
 This project is an interactive Streamlit-based web application that allows users to **chat with a SQL database using natural language**. Powered by **LangChain** and integrated with **Groq’s LLaMA3 model**, this tool enables users to query and explore both **SQLite and MySQL databases** without writing SQL directly.
 
 ---
+## live link
+https://chat-with-sql-by-prince-patel.streamlit.app/
 
+---
 ## 💡 Project Overview
 
 LangChain SQL Chat App simplifies database interaction using advanced natural language processing. With support for both **SQLite (local or uploaded)** and **MySQL (remote)** databases, users can ask questions such as:
